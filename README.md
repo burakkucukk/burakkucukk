@@ -8,14 +8,14 @@
 
 <p align="center">
 	<a href="mailto:burakkucuk163@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/burakkucukk/"><img src="https://media.tenor.com/nJgqO2rZ4jMAAAAC/hacker-typing.gif" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/burakkucukk/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 <br/>
 
 ---
 
-<img align="right" height="250" alt="guy" width="350" src="https://media.tenor.com/IwxGErroyGAAAAAC/engineer-fixed.gif" />
+<img align="right" height="250" alt="Hacker Coding" width="350" src="https://media.tenor.com/nJgqO2rZ4jMAAAAC/hacker-typing.gif" />
 
 <h2 align="left">What did I do?</h2>
 
