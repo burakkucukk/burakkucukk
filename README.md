@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" height="250" alt="Hacker Coding" width="350" src="https://media.tenor.com/nJgqO2rZ4jMAAAAC/hacker-typing.gif" />
+<img align="right" height="250" alt="Hacker Coding" width="350" src="https://media.giphy.com/media/hrRJ41Ry20id8Zc055/giphy.gif" />
 
 <h2 align="left">What did I do?</h2>
 
