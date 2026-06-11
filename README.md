@@ -8,7 +8,7 @@
 
 <p align="center">
 	<a href="mailto:burakkucuk163@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/burakkucukk/"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/burakkucukk/"><img src="https://media.tenor.com/nJgqO2rZ4jMAAAAC/hacker-typing.gif" alt="LinkedIn"/></a>
 </p>
 
 <br/>
